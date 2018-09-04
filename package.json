@@ -1,7 +1,7 @@
 {
-  "name": "toon-api",
+  "name": "node-daemon",
   "version": "0.0.1",
-  "description": "Toon API Abstraction",
+  "description": "Boilerplate for node-daemon projects",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --inspect --exec babel-node --extensions '.ts,.js' ./src -- --debug",
